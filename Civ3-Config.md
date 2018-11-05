@@ -1,7 +1,7 @@
 ## Hướng dẫn sử dụng CI-v3 cho project Ede
 **1) Config Civ3 cho**
 - Trong folder root của project tạo file có tên `framgia-ci.yml` với nội dung như sau:
-```
+```php
 project_type: php
 url: https://civ3-dev.framgia.vn
 build:
